@@ -31,7 +31,7 @@ Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.
 See [Technology.md](Technology.md) for a description of the technologies, languages, tools, and algorithms used in this project.
 
 ## Dashboard
-[---need to update---](---need to update---) to view the dashboard. Files used to create the dashboard are available in the [---need to update---](---need to update---). 
+[Click here](https://martinkaminskyj.github.io/covid-19_capstone_project/) to view the dashboard.
 
 ## Resources
 
