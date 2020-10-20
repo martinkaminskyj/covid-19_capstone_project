@@ -8,9 +8,9 @@ Our group (Martin Kaminskyj, Sami Elkhayri, Muzznah Ansari, Femi Adeleke, and Pa
 
 This project evaluates government measures to contain the spread of COVID-19, starting from January 1, 2020 to August 31, 2020. The dataset from Oxford university's Blavatnik School of Government contained indices that categorized government responses to COVID-19 and Our World in Data provided medical data on COVID-19 (e.g. number of confirmed cases and deaths).
 
-The question the project hoped to answer was: 
+The question I was trying to answer was: 
 
-1) Government measures - Which stringency measures are associated with lower rate of increase of total cases? Total deaths?
+1) Is there a relationship between each countries initial stringency ramp up period (the time it takes for each government to implement their most stringent policies - based on Stringency Index) and the related number of total cases and total deaths as a percentage of population.
    
 ## Analysis
 To view the code used to clean the raw data and analyse the correlation between the timing and severity of each countries initial stringency efforts and their outcome of total cases and deaths as a percentage of population, visit the [Analysis folder](Analysis).
