@@ -17,6 +17,9 @@ The question I was trying to answer was:
 To compare government responses between countries, Oxford University created an index ("government response index" (GR)) that rated government responses on a scale of 0 to 100. An index of zero meant no measures, whereas 100 meant that the most aggressive measures, relative to all countries, were employed.
 
 The GR index was an aggregate of the indices stringency, health/containment, and economic support. These indices rated government responses by their respective categories (e.g. stringency), also on a scale of 0 to 100. Each index grouped similar government measures. For example, stringency (i.e. behavioural restrictions) includes: school closures, workplace closures, cancellations of public events, restrictions on gathering, public transport closures, stay at home requirements, restrictions on internal movement, and international travel controls.
+
+## Dashboard
+[Click here](https://martinkaminskyj.github.io/covid-19_capstone_project/) to view the dashboard.
    
 ## Analysis
 To view the code used to clean the raw data and analyse the correlation between each countries stringency ramp  up period and their outcome of total cases and deaths as a percentage of population, visit the [Analysis folder](Analysis).
@@ -29,9 +32,6 @@ Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.
 
 ## Software
 See [Technology.md](Technology.md) for a description of the technologies, languages, tools, and algorithms used in this project.
-
-## Dashboard
-[Click here](https://martinkaminskyj.github.io/covid-19_capstone_project/) to view the dashboard.
 
 ## Resources
 
