@@ -1,7 +1,9 @@
 # Capstone Project on COVID-19
-**the following is my specific section of our group capstone project for the Data Analytics Bootcamp run through the University of Toronto School of Continuing Studies.*
+**The following is my specific section of our group capstone project for the Data Analytics Bootcamp run through the University of Toronto School of Continuing Studies.*
 
-*For the full project, please [click here](https://github.com/pmmfs)*
+*I contributed by sourcing and cleaning the raw data using Python (Pandas library), creating the SQLite database and related connectivity through SQLalchemy, performed exploratory analysis using Python’s various libraries, and visually presented all results using the Python library Matplotlib, in addition to creating a component for the interactive dashboard utilizing HTML and JavaScript.*
+
+*For the full group project, please [click here](https://github.com/pmmfs)*
 
 ## Overview
 Our group (Femi Adeleke, Muzznah Ansari, Sami Elkhayri, Martin Kaminskyj, and Patricia Lan) chose to perform data analysis on coronavirus disease of 2019 (COVID-19). The topic of COVID-19 was chosen because it is a current, global issue with extensive socioeconomic impact, and public data is available. Thus, many approaches to analysis are possible. 
@@ -10,7 +12,7 @@ This project evaluates government measures to contain the spread of COVID-19, st
 
 The question I was trying to answer was: 
 
-1) Is there a relationship between each countries initial stringency ramp up period (the time it takes for each government to implement their most stringent policies - based on Stringency Index) and the related number of total cases and total deaths as a percentage of population.
+**Is there a relationship between each countries initial stringency ramp up period (the time it takes for each government to implement their most stringent policies - based on Stringency Index) and the related number of total cases and total deaths as a percentage of population.**
 
 #### Background
 
