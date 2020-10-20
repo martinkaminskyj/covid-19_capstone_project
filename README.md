@@ -12,7 +12,7 @@ The question I was trying to answer was:
 
 1) Is there a relationship between each countries initial stringency ramp up period (the time it takes for each government to implement their most stringent policies - based on Stringency Index) and the related number of total cases and total deaths as a percentage of population.
 
-### Background
+#### Background
 
 To compare government responses between countries, Oxford University created an index ("government response index" (GR)) that rated government responses on a scale of 0 to 100. An index of zero meant no measures, whereas 100 meant that the most aggressive measures, relative to all countries, were employed.
 
