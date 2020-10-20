@@ -13,10 +13,10 @@ The question I was trying to answer was:
 1) Is there a relationship between each countries initial stringency ramp up period (the time it takes for each government to implement their most stringent policies - based on Stringency Index) and the related number of total cases and total deaths as a percentage of population.
    
 ## Analysis
-To view the code used to clean the raw data and analyse the correlation between the timing and severity of each countries initial stringency efforts and their outcome of total cases and deaths as a percentage of population, visit the [Analysis folder](Analysis).
+To view the code used to clean the raw data and analyse the correlation between each countries stringency ramp  up period and their outcome of total cases and deaths as a percentage of population, visit the [Analysis folder](Analysis).
 
 ## Database 
-Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.db)) to be queried for input for additional analyses. Figure 1 shows an entity relationship diagram (ERD) of the database.
+Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.db)) to be queried for input for future analyses. Figure 1 shows an entity relationship diagram (ERD) of the database.
 
 #### Figure 1. Database ERD
 ![](ERD_final.png)
