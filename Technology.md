@@ -7,4 +7,4 @@ The Pandas library in Jupyter notebook was used to clean data and perform explor
 SQLite was used to create the database.
 
 ## Dashboard
-JavaScript, HTML, and CSS languages were used to create the dashboard. Bootstrap and CSS were used for styling. Interactivity was achieved by integrating D3.js and through the use of plotly charts and Leaflet maps. The dashboard is hosted on GitHub Pages. 
+JavaScript, HTML, and CSS languages were used to create the dashboard. Bootstrap and CSS were used for styling. Interactivity was achieved by integrating D3.js and through the use of plotly charts. The dashboard is hosted on GitHub Pages. 
