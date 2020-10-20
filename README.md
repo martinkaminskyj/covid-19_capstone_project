@@ -1,7 +1,7 @@
 # Capstone Project on COVID-19
 **the following is my specific section of our group capstone project for the Data Analytics Bootcamp run through the University of Toronto School of Continuing Studies.*
 
-**For the full project, please [click here](https://github.com/pmmfs)*
+*For the full project, please [click here](https://github.com/pmmfs)*
 
 ## Overview
 Our group (Femi Adeleke, Muzznah Ansari, Sami Elkhayri, Martin Kaminskyj, and Patricia Lan) chose to perform data analysis on coronavirus disease of 2019 (COVID-19). The topic of COVID-19 was chosen because it is a current, global issue with extensive socioeconomic impact, and public data is available. Thus, many approaches to analysis are possible. 
