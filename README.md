@@ -13,10 +13,10 @@ The question the project hoped to answer was:
 1) Government measures - Which stringency measures are associated with lower rate of increase of total cases? Total deaths?
    
 ## Analysis
-To view the code used to analyse the correlation between the timing and severity of each countries initial stringency efforts and their outcome of total cases and deaths as a percentage of population, visit the [analysis_gov_regulation_impact directory](analysis_gov_regulation_impact).
+To view the code used to clean the raw data and analyse the correlation between the timing and severity of each countries initial stringency efforts and their outcome of total cases and deaths as a percentage of population, visit the [Analysis folder](Analysis).
 
 ## Database 
-Data was stored in a SQLite database ([covid_db.db](analysis_gov_regulation_impact/Resources/covid_db.db)) to be queried for input into machine learning models. Figure 1 shows an entity relationship diagram (ERD) of the database.
+Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.db)) to be queried for input for additional analyses. Figure 1 shows an entity relationship diagram (ERD) of the database.
 
 #### Figure 1. Database ERD
 ![](ERD_final.png)
@@ -30,8 +30,8 @@ See [Technology.md](Technology.md) for a description of the technologies, langua
 ## Resources
 
 ### Data
-- [owid-covid-data(Aug31,2020).csv](analysis_gov_regulation_impact/Resources/raw/owid-covid-data(Aug31,2020).csv) (Our World in Data - COVID-19 database)
-- [OxCGRT_latest(Aug31,2020).csv](analysis_gov_regulation_impact/Resources/raw/OxCGRT_latest(Aug31,2020).csv) (University of Oxford - COVID-19 Government Response Tracker)
+- [owid-covid-data(Aug31,2020).csv](Analysis/Resources/raw/owid-covid-data(Aug31,2020).csv) (Our World in Data - COVID-19 database)
+- [OxCGRT_latest(Aug31,2020).csv](Analysis/Resources/raw/OxCGRT_latest(Aug31,2020).csv) (University of Oxford - COVID-19 Government Response Tracker)
 
 ### Software
 See [Technology.md](Technology.md)
