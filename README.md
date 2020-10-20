@@ -30,9 +30,6 @@ Data was stored in a SQLite database ([covid_db.db](Analysis/Resources/covid_db.
 #### Figure 1. Database ERD
 ![](ERD_final.png)
 
-## Software
-See [Technology.md](Technology.md) for a description of the technologies, languages, tools, and algorithms used in this project.
-
 ## Resources
 
 ### Data
