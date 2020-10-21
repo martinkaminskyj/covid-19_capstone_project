@@ -1,4 +1,5 @@
-# Capstone Project on COVID-19
+# Capstone Project on COVID-19 (October 2020)
+
 **The following is my specific section of our group capstone project for the Data Analytics Bootcamp run through the University of Toronto School of Continuing Studies.*
 
 *I contributed by sourcing and cleaning the raw data using Python (Pandas library), creating the SQLite database and related connectivity through SQLalchemy, performed exploratory analysis using Python’s various libraries, and visually presented all results using the Python library Matplotlib, in addition to creating a component for the interactive dashboard utilizing HTML and JavaScript.*
