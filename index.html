@@ -46,32 +46,54 @@
             My specific contribution to this project's dashboard is displayed below. In addition, I also contributed by sourcing and cleaning 
             the raw data using Python (Pandas library), creating the SQLite database and related connectivity through SQLalchemy, performed 
             exploratory analysis using Python’s various libraries, and visually presented all results using the Python library Matplotlib.<br><br>
-            
-            Background:<br><br>        
-
-            To compare government responses between countries, Oxford University created an index ("government response index" (GR)) that 
-            rated government responses on a scale of 0 to 100. An index of zero meant no measures, whereas 100 meant that the most aggressive 
-            measures, relative to all countries, were employed.<br><br>
-
-            The GR index was an aggregate of the indices stringency, health/containment, and economic support. These indices rated government 
-            responses by their respective categories (e.g. stringency), also on a scale of 0 to 100. Each index grouped similar government 
-            measures. For example, stringency (i.e. behavioural restrictions) includes: school closures, workplace closures, cancellations of 
-            public events, restrictions on gathering, public transport closures, stay at home requirements, restrictions on internal movement, 
-            and international travel controls.<br><br>
-
-            Data sources included the 
-            <a href="https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker">Oxford University Blavatnik School of Government</a> and
-            <a href="https://ourworldindata.org/coronavirus">Our World In Data</a>.<br><br>
-
+                                   
             Visit <a href="https://github.com/pmmfs/capstone-project">our GitHub repo</a> for full project details.
+            To view the full dashboard, please <a href="https://pmmfs.github.io/#">click here</a>.
             </h5>
+            <div class="row mb-5 pb-4">
+                <div class="col-md-12">
+                    <div id="accordion1">
+                        <div class="card">
+                            <div class="card-header bg-dark" id="headingBackground">
+                            <h5 class="text-center mb-0">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseBackground" aria-expanded="false" aria-controls="collapseBackground">
+                                <h5 class="text-center text-light">Additional Background Information</h5>
+                                <p class="text-center text-light">(Click Me)</p>
+                                </button>
+                            </h5>
+                            </div>
+                
+                            <div id="collapseBackground" class="collapse" aria-labelledby="headingBackground" data-parent="#accordion">
+                                <div class="card-body">
+    
+                                    <table class="table" style= "text-align:left;">
+                                        <tbody class="bg-white">
+                                        <tr>
+                                            <td>
+                                                To compare government responses between countries, Oxford University created an index ("government response index" (GR)) that 
+                                                rated government responses on a scale of 0 to 100. An index of zero meant no measures, whereas 100 meant that the most aggressive 
+                                                measures, relative to all countries, were employed.<br><br>
+
+                                                The GR index was an aggregate of the indices stringency, health/containment, and economic support. These indices rated government 
+                                                responses by their respective categories (e.g. stringency), also on a scale of 0 to 100. Each index grouped similar government 
+                                                measures. For example, stringency (i.e. behavioural restrictions) includes: school closures, workplace closures, cancellations of 
+                                                public events, restrictions on gathering, public transport closures, stay at home requirements, restrictions on internal movement, 
+                                                and international travel controls.<br><br>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             </div>
             
         </div>
     
     </div>
-
-    <div class="row m-5"><a id="model"></a></div>
 
     <div class="container max-auto">
         <div class="row d-flex justify-content-center m-4">
@@ -126,9 +148,9 @@
    
         <div class="row mb-5 pb-4">
             <div class="col-md-12">
-                <div id="accordion">
+                <div id="accordion1">
                     <div class="card">
-                        <div class="card-header bg-dark" id="headingFour">
+                        <div class="card-header bg-dark" id="headingRamp">
                         <h5 class="text-center mb-0">
                             <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseRamp" aria-expanded="false" aria-controls="collapseRamp">
                             <h5 class="text-center text-light">Further Analysis</h5>
